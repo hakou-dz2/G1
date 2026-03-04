@@ -48,7 +48,7 @@
             android:fontFamily="sans-serif-black"
             android:text="@string/reset"
             android:textAlignment="viewStart"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:textStyle="italic" />
 
         <Button
