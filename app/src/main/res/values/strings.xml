@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">G1</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="reset">Click here to reset the password</string>
+    <string name="login">Login</string>
+</resources>
